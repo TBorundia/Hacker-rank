@@ -1,0 +1,5 @@
+git add .
+$env:GIT_AUTHOR_DATE="2024-12-31T12:00:00" 
+$env:GIT_COMMITTER_DATE="2024-12-31T12:00:00"
+git commit -m "AWS"
+git push
